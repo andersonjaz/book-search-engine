@@ -1,8 +1,32 @@
+# Book Search App
+
+This app was created to help users search and explore books to read. 
+
 ![Untitled_ Sep 2, 2022 6_23 PM](https://user-images.githubusercontent.com/91381863/188250663-2614ed33-90e5-4018-aa5a-fbe0c2fe287a.gif)
 
+## Index
 
+- [License](#license)
+- [Built With](#built-with)
+- [Website](#website)
 
+## License
+[^](#index)
 
+[![MIT License](https://img.shields.io/badge/License-MIT-orange)](https://choosealicense.com/licenses/mit)
+
+## Built With
+[^](#index)
+
+![node-js](https://img.shields.io/badge/-Node.js-3c873a?logo=node.js&logoColor=white&logoWidth=30)
+![express-js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white&logoWidth=30)
+![mongodb](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&logoWidth=30)
+![mongoose](https://img.shields.io/badge/-Mongoose.js-47A248?logo=mongoose&logoColor=white&logoWidth=30)
+![graphql](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql?logoColor=white?logoWidth=30)
+
+## Website
+[^](#index)
+https://booksearch-lja.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
